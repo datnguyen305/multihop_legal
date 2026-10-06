@@ -1,0 +1,11 @@
+transformers>=4.40
+torch>=2.0
+numpy>=1.24
+datasets>=2.18
+evaluate>=0.4
+rouge-score>=0.1.2
+nltk>=3.8
+bert-score>=0.3.13
+accelerate>=0.28
+sentencepiece>=0.1.99
+rank-bm25>=0.2.2
